@@ -1,0 +1,33 @@
+<html lang="uk">
+
+<body style="font-family:sans-serif;">
+  <header style="background-color:white">
+    <a href="https://protocol.ua/ua/zvidki_na_zemli_okeani/" style="color:navy">Світ Майнкрафту</a>
+  </header>
+  <main style="background-color:lightgreen">
+    <h1 style="color:navy; text-align:center;font-size:40px">Що таке Майнкрафт?</h1>
+    <p style="font-size:25px;text-align:center;">Minicraft - це комп'ютерна гра в жанрах екшен та симулятора виживання,
+      розроблена автором Minecraft Маркусом Перссоном.<br>Була створена для 48-годинного змагання зі створення ігор Ludum Dare та опублікована 19 грудня 2011 року у формі java-аплету.
+      <br>24 грудня вийшла неофіційна версія для Android, а в січні 2012 - для iOS.</p> <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/08/Minicraft_Screenshot.png/220px-Minicraft_Screenshot.png" width="350px"/>
+  </main>
+  <h1 p style="font-size:25px;background-color:#00ff2a" Створення серверу в майнкрафті>
+    <h1>
+      <p style="background-color:lightgreen">
+      <p style="font-size:25px;background-color:#00ff2a">Сервер Майнкрафт є багатокористувацьким ігровим сервером, що
+        належить гравцеві або бізнес-ігровий сервер для гри Minecraft. У цьому контексті термін «сервер» часто розмовно
+        відноситься до мережі підключених серверів, а не однієї машини.</p>
+      <p style="background-color:lightgreen">
+      <p style="font-size:25px;background-color:#00ff2a">Види серверів в майнкрафт
+      <p style="font-size:25px;background-color:#00ff2a">Гріф сервери—Сервери на яких не дозволений рейд, а для pvp
+        виділене спеціальне місце—pvp-arena.Також привати робляться за допомогою дерев'яної сокири,або команд pos1,pos2.
+      <p style="font-size:25px;background-color:#00ff2a">Ванільні сервери— Сервери де немає плагінів, або їх дуже мала
+        кількість.
+      <p style="font-size:25px;background-color:#00ff2a">Анархічні сервери—Сервери на яких дозволений рейд також привати
+        зроблені з блоків.
+      <p style="font-size:25px;background-color:#00ff2a">Міні-ігри сервери—На цих серверах можна грати в невеликі
+        (здебільшого короткочасні)ігри такі як bedwars,skywars,build battle і так далі...
+
+
+</body>
+
+</html>
