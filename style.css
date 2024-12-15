@@ -1,0 +1,89 @@
+/* Загальні стилі */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+.header {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 2px solid navy;
+}
+
+.header-link {
+    color: navy;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.header-link:hover {
+    text-decoration: underline;
+}
+
+/* Main Content */
+.main-content {
+    background-color: lightgreen;
+    padding: 20px;
+    text-align: center;
+}
+
+.main-content h1 {
+    font-size: 40px;
+    color: navy;
+    margin-bottom: 20px;
+}
+
+.main-content p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.main-image {
+    margin: 20px auto;
+    display: block;
+    width: 350px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+
+/* Server Types */
+.server-types {
+    list-style-type: square;
+    margin: 20px auto;
+    padding: 0;
+    max-width: 600px;
+    text-align: left;
+}
+
+.server-types li {
+    font-size: 18px;
+    margin: 10px 0;
+    background-color: #00ff2a;
+    padding: 10px;
+    border: 1px solid #008000;
+    border-radius: 5px;
+}
+
+/* Footer */
+.footer {
+    background-color: white;
+    color: navy;
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid navy;
+}
+
+.footer a {
+    color: navy;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
